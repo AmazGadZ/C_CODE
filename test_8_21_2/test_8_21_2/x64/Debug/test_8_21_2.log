@@ -1,0 +1,3 @@
+﻿  test.c
+E:\visual_studio_project\test_8_21_2\test_8_21_2\test.c(294,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  test_8_21_2.vcxproj -> E:\visual_studio_project\test_8_21_2\x64\Debug\test_8_21_2.exe
