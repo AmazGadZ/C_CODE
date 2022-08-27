@@ -1,0 +1,18 @@
+﻿  test.c
+E:\visual_studio_project\test_8_21\test_8_21\test.c(175,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(175,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(176,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(176,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(178,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(178,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(179,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(179,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(181,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(181,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(182,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(182,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(184,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(184,9): message : 请考虑在格式字符串中使用“%zd”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(185,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\visual_studio_project\test_8_21\test_8_21\test.c(185,9): message : 请考虑在格式字符串中使用“%zd”
+  test_8_21.vcxproj -> E:\visual_studio_project\test_8_21\x64\Debug\test_8_21.exe
