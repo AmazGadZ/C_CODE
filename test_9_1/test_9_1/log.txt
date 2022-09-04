@@ -1,0 +1,10 @@
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=0
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=1
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=2
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=3
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=4
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=5
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=6
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=7
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=8
+file:E:\visual_studio_project\test_9_1\test_9_1\test.c line:57 date:Sep  1 2022 time:11:59:48 i=9
